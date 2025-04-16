@@ -9,6 +9,13 @@ import CSSstyling from './components/CSSstyling'
 import ConditionalRendering from './components/ConditionalRendering'
 import Images from './components/Images'
 import UseEffect from './components/Hooks/UseEffect'
+import UseEffect1 from './components/Hooks/UseEffect1'
+import DigitalClock from './components/Hooks/DigitalClock'
+import HandlingEvents from './components/Hooks/HandlingEvents'
+import ControlledandUncontrolled from './components/Hooks/ControlledandUncontrolled'
+import From from './components/Hooks/From'
+import From1 from './components/Hooks/From1'
+import Internship from './components/Hooks/Internship'
 
 const App = () => {
 
@@ -27,7 +34,15 @@ const App = () => {
     {/* <ConditionalRendering/> */}
     {/* <Images/> */}
 
-    <UseEffect/>
+    {/* <UseEffect/> */}
+    {/* <UseEffect1/> */}
+    {/* <DigitalClock/> */}
+    {/* <HandlingEvents/> */}
+    {/* <ControlledandUncontrolled/> */}
+    {/* <From/> */}
+    {/* <From1/> */}
+    <Internship/>
+
     </>
   )
 }
